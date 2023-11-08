@@ -1,2 +1,0 @@
-# Grailler
-Final Project Application
